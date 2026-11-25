@@ -94,7 +94,7 @@ Created under **Directory → Groups**:
 | Sales | Sales staff |
 | HR | HR staff; future authoritative source for lifecycle |
 | IT-Admins | IT administrators; target for stricter policy |
-
+![Okta Group](group.png)
 ### 4. Users
 
 Created under **Directory → People → Add person**, activated immediately with an admin-set password:
