@@ -103,6 +103,7 @@ Created under **Directory → People → Add person**, activated immediately wit
 |---|---|---|
 | Alice Chen | alice.chen@<domain> | Engineering |
 | Bob Martinez | bob.martinez@<domain> | Engineering |
+| Kenny Vital | kenny.vital@<domain> | Engineering |
 | Carol Smith | carol.smith@<domain> | Sales |
 | Evan Brooks | evan.brooks@<domain> | HR |
 | Dana Lee | dana.lee@<domain> | IT-Admins |
