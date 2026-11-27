@@ -172,7 +172,7 @@ Added a rule **above** the catch-all in the app's authentication policy:
 
 ### 6. Results
 
-#### ✅ Alice (Engineering): token issued
+#### ✅ Kenny (Engineering): token issued
 
 Decoded at jwt.io:
 
