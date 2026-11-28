@@ -113,6 +113,8 @@ Created under **Directory → People → Add person**, activated immediately wit
 | Dana Lee | dana.lee@\<domain\> | IT_Admins |
  
 ![People](screenshots/people.png)
+
+
 ![Engineering members](screenshots/engineering-members.png)
  
 ### 5. MFA at first sign-in
