@@ -145,9 +145,8 @@ The "application" is **OIDC Debugger** (oidcdebugger.com), a tool that acts as a
 | Assignment | Group: **Engineering** | Group-based access control |
 | Self Service | Disabled | Access is admin-granted, not user-requested |
  
-![App credentials](screenshots/oidc-app-settings-1.png)
-![App grant types](screenshots/oidc-app-settings-2.png)
-![App redirect URI](screenshots/oidc-app-settings-3.png)
+![App grant types](screenshots/oidc-app-settings-1.png)
+![App redirect URI](screenshots/oidc-app-settings-2.png)
 ![App assignment](screenshots/app-assignments.png)
  
 ### 2. Groups claim
