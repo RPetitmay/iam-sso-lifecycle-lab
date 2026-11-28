@@ -167,7 +167,9 @@ Added a rule **above** the catch-all in the sign-in policy:
 - **Condition:** group = Engineering
 - **Access:** two factor types; the possession factor must be phishing-resistant (Okta Verify FastPass or passkey), with user interaction required
 - **Re-authentication:** every 1 hour (the catch-all uses 12 hours)
-Rules are evaluated top-down and the first match wins. The catch-all also requires two factors with a phishing-resistant possession factor, and additionally excludes phone and email authenticators. The policy is shared by 4 apps, including the Okta Dashboard.
+The rules live in the **Any two factors** app sign-in policy, which is shared by 4 apps:
+three Okta system apps (Access Certification Reviews, Workflows, Workflows OAuth) and
+OIDC Debugger Lab.
  
 ![Authentication policy](screenshots/auth-policy-rule.png)
  
